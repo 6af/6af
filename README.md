@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&redirect=true)
 <h3 align="center">6af</h3>
 <br>
 <br>
