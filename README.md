@@ -1,29 +1,13 @@
+<h3 align="center">Freelance dev / gamer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=6af&label=Profile%20views&color=0e75b6&style=flat" alt="6af" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=6af" alt="6af" /></a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=6af&show_icons=true&locale=en&layout=compact" alt="6af" /></p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-<h3 align="center">6af</h3>
-<br>
-<br>
-<h2 align="center">Languages:
-<br>
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://cdn.discordapp.com/attachments/821833491075301416/822555126488236072/download_1.png"></code>
-</h2>
-<br>
-<br>
-<br>
-<br>
-<a href="https://github.com/6af">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=6af&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="6af stats" />
-<a href="https://github.com/Visual9999?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6af&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323">
-</h2>
-<br>
-<br>
-</a>
-<h3 align="center"> 
-<br>
-<br>
-</h3>
-<br>
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6af&" alt="6af" /></p>
