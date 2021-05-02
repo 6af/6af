@@ -18,7 +18,7 @@
 
 
 
-<p><img align="center" src="https://tenor.com/view/he-is-risen-praise-him-gospel-church-easter-gif-16854388" alt="6af" /></p>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
