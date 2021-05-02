@@ -12,6 +12,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6af&" alt="6af" /></p>
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/815486762646372372.png"/>
+</p>
+
+
+
 <p><img align="center" src="https://tenor.com/view/he-is-risen-praise-him-gospel-church-easter-gif-16854388" alt="6af" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
