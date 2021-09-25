@@ -10,7 +10,7 @@
   
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=odb0714&cover_image=true&theme=novatorem"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=iq2pj1myzg9mbnfwuxfsw9sz6&cover_image=true&theme=compact"/>
 </p>
 
 
