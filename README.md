@@ -16,7 +16,7 @@ Languages:  Python, Node.js,
             PHP
 Hobbies:    Coding, Skating
 Discord:    </Owen>#1337
-            [https://discord.gg/zBfSCasSnX]
+            [discord.owenthedev.xyz]
                      
 ```
 
