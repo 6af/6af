@@ -10,7 +10,7 @@
 
 OS:         Windows 10
 Pronouns:   He / Him
-Nickname:   owen
+Nickname:   arshan shooki
 Location:   Colorado
 Languages:  Python, Node.js,
             PHP
