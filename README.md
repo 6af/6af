@@ -10,13 +10,13 @@
 
 OS:         Windows 10
 Pronouns:   He / Him
-Nickname:   arshan shooki
+Nickname:   retard
 Location:   Colorado
 Languages:  Python, Node.js,
             PHP
 Hobbies:    Coding, Skating
-Discord:    </Owen>#1337
-            [discord.owenthedev.xyz]
+Discord:    
+
                      
 ```
 
