@@ -1,5 +1,5 @@
 ```zsh
-> discord is Vxhzzs#2539 i dont code often anymore
+> discord is Vxhzzs#4700 i dont code often anymore
 ```
 
 
